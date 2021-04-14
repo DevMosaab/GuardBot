@@ -1,0 +1,2 @@
+# GuardBot
+Discord Moderation Bot
